@@ -33,3 +33,4 @@ else
 echo "Failure in generating the key"
 exit 1
 fi
+ech "This is just to verify"
